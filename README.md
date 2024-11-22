@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @efyrio
-- 👀 I’m interested in becoming a full time softwware engineer
+- 👀 I’m interested in becoming a full time software engineer
 - 🌱 I’m currently learning html,css,c,,javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
